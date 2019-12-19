@@ -1,12 +1,12 @@
 
 ### ![GA](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png) General Assembly, Software Engineering Immersive
-# Project #3: Placeholder
+# Placeholder
 
 ## Overview
 
-This is the third project of the software engineering immersive course at GA London. The assignment was to create a **full-stack application** in **teams of 3** and within **one week**.
+This is the third project of the software engineering immersive course at GA London. The assignment was to create a **full-stack application** in **teams of 3** within **one week**.
 
-You can launch the game on GitHub pages [here](url), or find the GitHub repo [here](url).
+You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), or find the GitHub repo [here](https://github.com/katheich/placeholder).
 
 ## Brief
 
@@ -59,7 +59,7 @@ You can launch the game on GitHub pages [here](url), or find the GitHub repo [he
 
 ## Artwork and credit
 
-Logo made by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from [www.flaticon.com](https://www.flaticon.com/), all others made by Kathrin Eichinger in same style.
+Logo made by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from [www.flaticon.com](https://www.flaticon.com/).
 
 Pub icon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/), all others made by Kathrin Eichinger in same style.
 
