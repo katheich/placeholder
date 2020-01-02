@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is the third project of the software engineering immersive course at GA London. The assignment was to create a **full-stack application** in **teams of 3** within **one week**.
+This is the third project of the software engineering immersive course at GA London. The assignment was to create a **full-stack application** in **teams of three** within **one week**.
 
 Placeholder is a platform that allows users to save their favourite locations (e.g. restaurants, pubs or shops) for safe-keeping and to retrieve these easily on a map to find the ones nearby. It also allows users to add each other to their 'circle', and therefore displaying also locations from other users that they have decided to share with their friends.
 
@@ -74,8 +74,8 @@ You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), 
 
   ```js
   const circleSchema = new mongoose.Schema({
-  approved: [{ type: mongoose.Schema.ObjectId, ref: 'User' }],
-  requested: [{ type: mongoose.Schema.ObjectId, ref: 'User' }]
+    approved: [{ type: mongoose.Schema.ObjectId, ref: 'User' }],
+    requested: [{ type: mongoose.Schema.ObjectId, ref: 'User' }]
   })
 
   const userSchema = new mongoose.Schema({ 
@@ -273,6 +273,6 @@ You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), 
 
 Logo made by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from [www.flaticon.com](https://www.flaticon.com/)
 
-Pub icon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/), all others made by Kathrin Eichinger in same style
+Pub icon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/), others made by Kathrin Eichinger in same style
 
 ... and name provided by Michael Adair
