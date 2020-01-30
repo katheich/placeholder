@@ -10,6 +10,20 @@ Placeholder is a platform that allows users to save their favourite locations (e
 
 You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), or find the GitHub repo [here](https://github.com/katheich/placeholder).
 
+## Table of Contents
+1. [Brief](#Brief)
+2. [Technologies used](#Technologies-used)
+3. [Approach](#Approach)
+    - [Planning](#Planning)
+    - [Back-end](#Back-end)
+    - [Front-end](#Front-end)
+    - [File Structure](#File-structure)
+4. [Screenshots](#Screenshots)
+5. [Potential future features](#Potential-future-features)
+6. [Bugs](#Bugs)
+7. [Lessons learned](#Lessons-learned)
+8. [Artwork and credit](#artwork-and-credit)
+
 ## Brief
 
 * Work in a team, using **git to code collaboratively**.
@@ -34,6 +48,7 @@ You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), 
 - Git and GitHub
 - Bulma
 - Google Fonts
+- Photoshop Elements
 
 ## Approach
 
@@ -152,7 +167,7 @@ You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), 
 - For the map, list and circle pages we implemented popups using Toastify that display the API responses.
 
 
-### Complete final file structure
+### File structure
 
 ```
 ├── README.md
