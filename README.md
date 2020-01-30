@@ -10,7 +10,7 @@ Placeholder is a platform that allows users to save their favourite locations (e
 
 You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), or find the GitHub repo [here](https://github.com/katheich/placeholder).
 
-## Table of Contents
+## Table of contents
 1. [Brief](#Brief)
 2. [Technologies used](#Technologies-used)
 3. [Approach](#Approach)
