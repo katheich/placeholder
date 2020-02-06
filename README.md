@@ -2,6 +2,8 @@
 ### ![GA](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png) General Assembly, Software Engineering Immersive
 # Placeholder
 
+by [Ken Chow](https://github.com/kenlkchow), [Kathrin Eichinger](https://github.com/katheich) & [Jonny Garius](https://github.com/jgar123)
+
 ## Overview
 
 This is the third project of the software engineering immersive course at GA London. The assignment was to create a **full-stack application** in **teams of three** within **one week**.
